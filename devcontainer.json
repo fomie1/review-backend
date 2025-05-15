@@ -1,0 +1,6 @@
+{
+    "containerEnv": {
+    "MONGO_USERNAME": "beau",
+    "MONGO_PASSWORD": "freecodecamp"
+  }
+}
